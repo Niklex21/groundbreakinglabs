@@ -19,4 +19,3 @@ const CustomButton: React.FC<CustomButtonProps> = ({ label, onClick, link, class
 };
 
 export default CustomButton;
-
